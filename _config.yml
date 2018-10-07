@@ -55,7 +55,7 @@ kramdown:
 
 # Gitalk
 gitalk:
-  enable: true    #是否开启Gitalk评论
+  enable: false    #是否开启Gitalk评论
   clientID: 65ddc9ff8941c5c3537d                            #生成的clientID
   clientSecret: f608fd3236d4e713e33a1eb95a0dec8e0026b3fc    #生成的clientSecret
   repo: rbt99.github.io    #仓库名称
@@ -79,7 +79,7 @@ gitalk:
 
 
 # Featured Tags
-featured-tags: true                     # 是否使用首页标签
+featured-tags: false                     # 是否使用首页标签
 featured-condition-size: 1              # 相同标签数量大于这个数，才会出现在首页
 
 
